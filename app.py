@@ -1,7 +1,7 @@
 # app.py
-# cd health-index-app
+# cd health-index-app or on work  C:\Users\willi\.vscode\health-app-index
 # streamlit run app.py
-# or c:/Users/Willi/.vscode/Health-App-Index/app.py
+# 
 import streamlit as st
 from pages_content import render_home, render_index, render_faq, render_substances
 
